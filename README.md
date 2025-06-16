@@ -14,6 +14,9 @@ Sobikul Mia
 📧 Email: sobikulmia11@gmail.com
 🌐 GitHub: https://github.com/SobikulMia
 
+🌐 Try the Live Demo:
+🔗 https://online-retail-rfm-clustering-tzxkefczsrzumvtzosf5zq.streamlit.app/
+
 ## 📁 Project Files
 
 | File Name                                      | Description                                      |
